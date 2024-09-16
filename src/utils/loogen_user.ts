@@ -1,0 +1,1 @@
+export const logged_user_id = Math.floor(Math.random()*2 + 1);
